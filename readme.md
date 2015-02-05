@@ -18,14 +18,17 @@
 - [phpspec](#phpspec)
 - [Présentation d'une approche de modélisation en DDD par l'exemple](#présentation-dune-approche-de-modélisation-en-ddd-par-lexemple-french) _<sup>(french)</sup>_
 - [Présentation de Prophecy](#présentation-de-prophecy-french) _<sup>(french)</sup>_
+- [Présentation du nouveau software Blackfire.io](#présentation-du-nouveau-software-blackfireio)
 - [Protips pour Symfony2 (mais pas que)](#protips-pour-symfony2-mais-pas-que-french) _<sup>(french)</sup>_
 - [Provisioning d'un projet Symfony avec Ansible](#provisioning-dun-projet-symfony-avec-ansible-french) _<sup>(french)</sup>_
+- [Réaliser des applications innovantes avec Symfony2](#réaliser-des-applications-innovantes-avec-symfony2-french) _<sup>(french)</sup>_
 - [Retour d'experience avec EkinoWordpressBundle sur un site à forte charge](#retour-dexperience-avec-ekinowordpressbundle-sur-un-site-à-forte-charge-french)
 - [Routing Symfony et Symfony CMF](#routing-symfony-et-symfony-cmf-french) _<sup>(french)</sup>_
 - [Scaling Symfony2 apps with RabbitMQ](#scaling-symfony2-apps-with-rabbitmq)
 - [Silex saved me from my legacy code](#silex-saved-me-from-my-legacy-code)
 - [Sonata Block Bundle](#sonata-block-bundle)
 - [Speed up your Symfony2 application and build awesome features with Redis](#speed-up-your-symfony2-application-and-build-awesome-features-with-redis)
+- [Symfony2 : Performances et Optimisations](#symfony2--performances-et-optimisations-french) _<sup>(french)</sup>_
 - [Symfony2 Security & Websockets](#symfony2-security--websockets-french) _<sup>(french)</sup>_
 - [Symfony à L'Express - Toute une histoire](#symfony-à-lexpress---toute-une-histoire-french) _<sup>(french)</sup>_
 - [Utilisation de Docker dans le cadre de projets Symfony](#utilisation-de-docker-dans-le-cadre-de-projets-symfony-french) _<sup>(french)</sup>_
@@ -155,6 +158,23 @@ By [Marek Kalnik](https://connect.sensiolabs.com/profile/marekkalnik)
 
 ---
 
+## Réaliser des applications innovantes avec Symfony2 _<sup>(french)</sup>_
+
+[Slides](http://slideshare.net/coopTilleuls/compte-rendu-du-sfpot-lillois-du-20-mars-2014)  
+~~Video~~
+
+By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
+![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
+![twitter](icon/twitter.png) [@dunglas](https://twitter.com/dunglas)
+
+And [Alexandre Salomé](https://connect.sensiolabs.com/profile/alexandresalome)  
+![github](icon/github.png) [@alexandresalome](https://github.com/alexandresalome)  
+![twitter](icon/twitter.png) [@alexandresalome](https://twitter.com/alexandresalome)
+
+![meetup](icon/location.png) [Lille, France](http://les-tilleuls.coop/les-tilleuls-coop-et-sensiolabs-organisent-le-premier-sfpot-lillois/) - 20/03/2014
+
+---
+
 ## Applying Domain Driven Design with Symfony2 projects
 
 <dl>
@@ -218,6 +238,19 @@ And Thierry Geindre
 ![github](icon/github.png) [@t-geindre](https://github.com/t-geindre)  
 
 ![meetup](icon/location.png) [Lyon, France](http://www.meetup.com/afsy-sfpot/events/181251072/) - 22/05/2014
+
+---
+
+## Symfony2 : Performances et Optimisations _<sup>(french)</sup>_
+
+[Slides](http://slideshare.net/coopTilleuls/sfpot-du-12-juin-2014-symfony-performances-et-optimisations)  
+~~Video~~
+
+By [Samuel Roze](https://connect.sensiolabs.com/profile/sroze)  
+![github](icon/github.png) [@sroze](https://github.com/sroze)  
+![twitter](icon/twitter.png) [@samuelroze](https://twitter.com/samuelroze)
+
+![meetup](icon/location.png) [Lille, France](http://les-tilleuls.coop/sfpot-lillois-symfony-2-optimisations-et-performances/) - 12/06/2014
 
 ---
 
@@ -349,6 +382,20 @@ By [Alexandre Balmes](https://connect.sensiolabs.com/profile/pocky)
 ![twitter](icon/twitter.png) [@pockystar](https://twitter.com/pockystar)
 
 ![meetup](icon/location.png) [Lyon, France](http://www.meetup.com/afsy-sfpot/events/208208712/) - 02/09/2014
+
+---
+
+## Présentation du nouveau software Blackfire.io
+
+~~Slides~~  
+~~Video~~  
+[Blackfire.io](https://blackfire.io)
+
+By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
+![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
+![twitter](icon/twitter.png) [@fabpot](https://twitter.com/fabpot)
+
+![meetup](icon/location.png) [Lyon, France](http://les-tilleuls.coop/nouveau-sfpot-a-lille-conference-de-fabien-potencier/) - 11/09/2014
 
 ---
 
